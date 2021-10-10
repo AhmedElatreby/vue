@@ -25,3 +25,9 @@ npm run build
 ```
 npm run lint
 ```
+
+### installing bootstap
+
+```
+npm install bootstap
+```
